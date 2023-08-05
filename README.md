@@ -1,15 +1,16 @@
 # Deep-Learning-Anomaly-Detection
 Using an Autoencoder for Anomaly Detection
 
-## Introduction 
+## Introduction:
 Anomaly detection is a technique that uses AI to identify abnormal behavior as compared to an established pattern. A common way to implement this is to train a neural network to learn some characteristic about a dataset of only normal examples,
 and to detect abnormal data when that characteristic differs from normality.
 
-## Goal
+## Goal:
+
 Train a reconstruction autoencoder to perform anomaly detection and localization. Implement different metrics for anomaly detection
 and localization
 
-## Project Outline
+## Project Outline:
 
 * Train an autoencoder on one class (the normal class) of a simple dataset like CIFAR-10.
 * Figure out how to use this autoencoder to detect when a test image is either (1) normal (from the training set class) or (2) anomalous
