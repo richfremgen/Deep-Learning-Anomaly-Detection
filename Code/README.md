@@ -1,4 +1,4 @@
-# README for ECE-685 Final Project:
+# README for Deep Learning Final Project:
 
 ## 1 - Contents of this folder:
 
